@@ -1,0 +1,47 @@
+export const translations = {
+  vi: {
+    brand: "ORBRO",
+    advice: "Lời khuyên",
+    camera: "CAMERA",
+    title: "TRANG KIỂM TRA",
+    subtitle:
+      "Không có bí quyết nào để thành công. Thành công là kết quả của sự chuẩn bị, làm việc chăm chỉ và học hỏi từ thất bại.",
+    author: "- Colin Powell",
+    start: "Bắt đầu",
+    stop: "Dừng lại",
+    language: "Ngôn ngữ",
+    adviceTitle: "LỜI KHUYÊN",
+    testPage: "TEST PAGE",
+    advice1: "LỜI KHUYÊN 1",
+    advice2: "LỜI KHUYÊN 2",
+    advice3: "LỜI KHUYÊN 3",
+    imageAlt: "Hình ảnh",
+    defaultAdvice1:
+      "Hầu hết những việc được thực hiện trong bí mật tốt hơn là không nên làm.",
+    defaultAdvice2:
+      "Không bao giờ trả giá đầy đủ cho một chiếc ghế sofa tại DFS.",
+    defaultAdvice3: "Chấp nhận lời khuyên.",
+  },
+  en: {
+    brand: "ORBRO",
+    advice: "ADVICE",
+    camera: "CAMERA",
+    title: "TEST PAGE",
+    subtitle:
+      "There are no secrets to success. Success is the result of preparation, hard work, and learning from failure.",
+    author: "- Colin Powell",
+    start: "START",
+    stop: "STOP",
+    language: "LANGUAGE",
+    adviceTitle: "ADVICE",
+    testPage: "TEST PAGE",
+    advice1: "ADVICE 1",
+    advice2: "ADVICE 2",
+    advice3: "ADVICE 3",
+    stopped: "Stopped",
+    imageAlt: "Image",
+    defaultAdvice1: "Most things done in secrecy are better left undone.",
+    defaultAdvice2: "Never pay full price for a sofa at DFS.",
+    defaultAdvice3: "Accept advice.",
+  },
+};
